@@ -34,11 +34,61 @@ let questions = [
         choice3: 'Choice C',
         choice4: 'Choice D',
         answer: 2,
-    }
+    },
+    {
+        question: 'Question 4',
+        choice1: 'Choice A',
+        choice2: 'Choice B',
+        choice3: 'Choice C',
+        choice4: 'Choice D',
+        answer: 2,
+    },{
+        question: 'Question 5',
+        choice1: 'Choice A',
+        choice2: 'Choice B',
+        choice3: 'Choice C',
+        choice4: 'Choice D',
+        answer: 2,
+    },{
+        question: 'Question 6',
+        choice1: 'Choice A',
+        choice2: 'Choice B',
+        choice3: 'Choice C',
+        choice4: 'Choice D',
+        answer: 2,
+    },{
+        question: 'Question 7',
+        choice1: 'Choice A',
+        choice2: 'Choice B',
+        choice3: 'Choice C',
+        choice4: 'Choice D',
+        answer: 2,
+    },{
+        question: 'Question 8',
+        choice1: 'Choice A',
+        choice2: 'Choice B',
+        choice3: 'Choice C',
+        choice4: 'Choice D',
+        answer: 2,
+    },{
+        question: 'Question 9',
+        choice1: 'Choice A',
+        choice2: 'Choice B',
+        choice3: 'Choice C',
+        choice4: 'Choice D',
+        answer: 2,
+    },{
+        question: 'Question 10',
+        choice1: 'Choice A',
+        choice2: 'Choice B',
+        choice3: 'Choice C',
+        choice4: 'Choice D',
+        answer: 2,
+    },
 ]
 
 const SCORE_POINTS = 100
-const MAX_QUESTIONS = 3
+const MAX_QUESTIONS = 10
 
 startGame = () => {
     questionCounter = 0
