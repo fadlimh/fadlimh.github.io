@@ -83,7 +83,7 @@ let questions = [
         choice2: 'Virtual Reality (VR)',
         choice3: 'Extended Reality (XR)',
         choice4: 'Augmented Reality (AR)',
-        answer: 1,
+        answer: 2,
     },
 ]
 
